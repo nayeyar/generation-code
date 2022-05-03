@@ -1,0 +1,2 @@
+Hello from myFile
+Adding some text
